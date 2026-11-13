@@ -12,7 +12,22 @@
 			"file": "maps/EmberfallCrossing.rtsmap",
 			"preview": "previews/EmberfallCrossing.png",
 			"updated": "2026-11-13T01:53:50.500Z",
-			"owner": "ninjawerk"
+			"owner": "ninjawerk",
+			"copiedFrom": ""
+		},
+		{
+			"name": "Gloamreach",
+			"title": "Gloamreach",
+			"author": "Deshan Alahakoon",
+			"description": "Two villages in their trees' light, a river and its fords, and between them land the fog has killed: dead woods, old battlefields and graves. Push the light out as you grow.",
+			"version": 1,
+			"size": 508801,
+			"sha1": "9aaff0861294f5aa92f4655139f64b874a235559",
+			"file": "maps/Gloamreach.rtsmap",
+			"preview": "previews/Gloamreach.png",
+			"updated": "2026-11-13T13:27:47.267Z",
+			"owner": "ninjawerk",
+			"copiedFrom": ""
 		}
 	]
 }
