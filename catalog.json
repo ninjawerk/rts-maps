@@ -5,13 +5,13 @@
 			"name": "EmberfallCrossing",
 			"title": "Emberfall Crossing",
 			"author": "Deshan Alahakoon",
-			"description": "test",
-			"version": 1,
-			"size": 824256,
-			"sha1": "55e8e102c77084537a8b152466aedb232ea53457",
+			"description": "v0.0.2",
+			"version": 2,
+			"size": 818746,
+			"sha1": "fd27c935d9614089fd053e48390a5c19c8b4c8f4",
 			"file": "maps/EmberfallCrossing.rtsmap",
 			"preview": "previews/EmberfallCrossing.png",
-			"updated": "2026-11-13T01:21:46.441Z"
+			"updated": "2026-11-13T01:53:50.500Z"
 		}
 	]
 }
